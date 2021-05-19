@@ -1,0 +1,22 @@
+html {
+  background-image: url(assets/img/wp6837854.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+.center-div {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 1000px;
+  height: 500px;
+  background-color: black;
+  color: white;
+  border: 3px solid red;
+}
+h1,
+h2 {
+  text-align: center;
+}
