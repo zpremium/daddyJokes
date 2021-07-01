@@ -17,7 +17,7 @@ I created a Dad's joke generator... ¿Will u be able to laugh or cry? Let's find
   
 ## Lessons Learned
 
-I created this because I wanted to practise my first API with only JavaScript.
+I created this because I wanted to practise my first API with only JavaScript. Everytime you press the button NEXT, a new joke will apear from this API.
 
 I used ASYNC AWAIT FETCH
 
